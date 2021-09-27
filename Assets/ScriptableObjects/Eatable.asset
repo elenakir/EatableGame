@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fbbf33cf8dcab5428610c89c878304d, type: 3}
+  m_Name: Eatable
+  m_EditorClassIdentifier: 
+  _cardData:
+  - _name: "\u0410\u0431\u0440\u0438\u043A\u043E\u0441"
+    _icon:
+      m_AssetGUID: ae75e837c3d46eb498272a6ca5894f1e
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _isEatable: 1
+  - _name: "\u0422\u043E\u0440\u0442"
+    _icon:
+      m_AssetGUID: 56f8385547932b04f9ff6372d5d256bd
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _isEatable: 1
+  - _name: "\u0412\u0438\u043D\u043E\u0433\u0440\u0430\u0434"
+    _icon:
+      m_AssetGUID: 3ff0593e1cf8a7445803b346da731082
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _isEatable: 1
+  - _name: "\u0414\u044B\u043D\u044F"
+    _icon:
+      m_AssetGUID: 00d409aa51c0f824a9988ef963680685
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _isEatable: 1
+  - _name: "\u041C\u0430\u043B\u0438\u043D\u0430"
+    _icon:
+      m_AssetGUID: ca9fcb9e96700c0458c33527c54cc8f3
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _isEatable: 1
+  - _name: "\u041F\u043E\u043C\u0438\u0434\u043E\u0440"
+    _icon:
+      m_AssetGUID: 3142badfcd657ac46a18f98f012c9c20
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    _isEatable: 1
